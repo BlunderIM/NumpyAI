@@ -6,5 +6,5 @@ The network is trained using backpropagation with stochastic gradient descent (S
 The MNIST dataset consists of 60,000 training images and 10,000 testing images of handwritten digits.    
 Each image is a 28x28 grayscale image, and the goal is to correctly classify which digit the image represents.  
 
-**Results**
-<img src="/data/Learning_Curves.png" alt="Image Alt Text" width="300" height="200">
+**Results**  
+<img src="./data/Learning_Curves.png" alt="Image Alt Text" width="300" height="200">
